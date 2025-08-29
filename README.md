@@ -1,3 +1,4 @@
+# *HR Analytics Dashboard*
 # *Overview*
 
 This project includes a HR dataset (HR_Analytics.csv), an Excel workbook (HR Analystics Project.xlsx), and a Power BI dashboard (HR Analytics Dashboard.pbix). These components work together to analyze workforce data and present insights in a rich visual format.
